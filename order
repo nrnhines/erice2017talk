@@ -12,6 +12,11 @@ cellbildrun.ps
 lincir1.ps
 chan91.ps
 recon[1-2].ps
+
 16_style_net*.ps
+set2.id
+netdescript[12].id
+set3.id
+issues*.id
 
 mem[1-3].id
