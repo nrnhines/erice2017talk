@@ -1,0 +1,38 @@
+Single node benchmark systems
+BG/Q (1.6GHz, 16 core)
+Xeon (2.6GHz, 16 core)
+KNL-DRAM (1.3GHz, 64 coe)
+KNL-MCDRAM
+GPU (NVIDIA K20X)
+
+BlueBrain (1k Cells)
+
+NEURON
+67.5
+20.6
+17.2
+11.2
+0
+
+CoreNEURON
+37.6
+7.6
+6.0
+3.3
+0
+
+Ring (32k cells)
+
+NEURON
+71.6
+35.0
+22.9
+8.4
+0
+
+CoreNEURON
+53.0
+20.0
+17.8
+6.8
+8.0

@@ -1,0 +1,35 @@
+They are finalizing the program for the 2017 Golgi School of  
+Brain Cells and Circuit at Erice, Nov.29-Dec.03.
+Would you be able to give a talk with an introduction on NEURON and  
+bottom up models, including an introduction on parallelization with  
+NEURON/coreNeuron?
+
+Bottom-up brain modeling: the NEURON platform
+45 minutes
+
+modeling involves a language with elements that combine.
+Cell
+Channel
+connection
+
+What is NEURON for.
+What does it look like.
+How does it work
+Conceptual vs Representation
+Want small change in concept to result in small change in representation.
+Essence vs accident.
+  Separate computer specific issues (discretization, numerical issues,
+  accuracy, performance) from description.
+Description vs recipe vs (elements + composition procedures)
+Need to focus, isolate, exeriment.
+
+Cell description satisfyingly maps concepts to representation.
+Cell, synapse, channel, ions, reactions, diffusion, voltage, current.
+Network description not as settled.
+ From NEURON perspective, source to target connections
+ Allen Institute Brain Modeling Toolkit
+ HBP/BBP neurodamus
+ NetPyNE
+   deal with populations/projections
+
+CoreNEURON
