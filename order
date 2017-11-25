@@ -32,3 +32,4 @@ bbperf.id
 mem[1-3].id
 cndata.id
 corenrngpuperf.id
+cnworkflow[12].id
