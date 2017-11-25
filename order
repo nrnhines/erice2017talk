@@ -19,4 +19,14 @@ netdescript[12].id
 set3.id
 issues*.id
 
+allgather.id
+multisend2.id
+exchange_perf.id
+
+slide16.id
+bbhist.id
+cxout1.id
+cxout2.id
+bbperf.id
+
 mem[1-3].id
